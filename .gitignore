@@ -1,7 +1,7 @@
 
 # Since that is not working I will not allow CSV or zip files from that directory. This is not ideal.
 
-.zip
+*.zip
 credits.csv
 keywords.csv
 links.csv
