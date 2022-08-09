@@ -50,7 +50,7 @@ Finally, a Notebook was created to load all of the previously created data into 
 
 - The create_database Notebook has that 26,024,289 rows were imported
 
-![row_imported_from_nb](/Resources/26024289\ rows\ imported\ proof.png)
+![row_imported_from_nb](/Resources/26024289_rows_imported_proof.png)
 
 - pgAdmin 4 outputs the count as "24289" like it got cut off. 
   - Expanding the cell does not work, and changed the config to allowing larger row numbers in output. Dropped the tables and have reimported a number of times with the exact same results.
