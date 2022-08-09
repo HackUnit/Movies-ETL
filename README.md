@@ -13,13 +13,13 @@ This automated pipeline’s intended purpose was to daily take in new data, perf
 A function was created first as a test to create an automated pipeline by converting the data into Pandas DataFrame. Below are displayed results of this function:
 
 - The Wikipedia data converted to a DataFrame.
-![wiki_movies_df](/Resources/Pictures/wiki_movies_df.png)
+![wiki_movies_df](/Resources/wiki_movies_df.png)
 
 - The Kaggle Metadata converted into a DataFrame.
-![wiki_movies_df](/Resources/Pictures/kaggle_metadata.png)
+![wiki_movies_df](/Resources/kaggle_metadata.png)
 
 - The MovieLens Data converted into a DataFrame.
-![wiki_movies_df](/Resources/Pictures/ratings.png)
+![wiki_movies_df](/Resources/ratings.png)
 
 The next Notebook was created off of the Wikipedia DataFrame so that after refactoring, extracting and transforming it could merge with the Kaggle metadata.
 
