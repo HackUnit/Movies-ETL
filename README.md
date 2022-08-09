@@ -53,7 +53,8 @@ Finally, a Notebook was created to load all of the previously created data into 
 ![row_imported_from_nb](/Resources/26024289_rows_imported_proof.png)
 
 - pgAdmin 4 outputs the count as "24289" like it got cut off. 
-  - Expanding the cell does not work, and changed the config to allowing larger row numbers in output. Dropped the tables and have reimported a number of times with the exact same results.
+  - Expanding the cell does not work, and changed the config to allowing larger row numbers in output. 
+  - Dropped the tables and have reimported a number of times with the exact same results.
 
 ![ratings_query](/Resources/ratings_query.png)
 
