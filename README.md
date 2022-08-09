@@ -45,22 +45,9 @@ Finally, a Notebook was created to load all of the previously created data into 
 - Movies query with 6,052 rows.
 ![movies_query](/Resources/movies_query.png)
 
+<!-- ![row_imported_from_nb](/Resources/26024289_rows_imported_proof.png) -->
 
-- *BUG* Ratings query is supposed to say 26,024,289 rows. 
-
-- The create_database Notebook has that 26,024,289 rows were imported
-
-![row_imported_from_nb](/Resources/26024289_rows_imported_proof.png)
-
-- pgAdmin 4 outputs the count as "24289" like it got cut off. 
-  - Expanding the cell does not work, and changed the config to allowing larger row numbers in output. 
-  - Dropped the tables and have reimported a number of times with the exact same results.
-
+- Ratings query at 26048578 rows. 
 ![ratings_query](/Resources/ratings_query.png)
 
-
-
-
-
-
-<!-- With this the hackathon has a clean and reliable dataset to be analyzed for their projects. -->
+ With this the hackathon has a clean and reliable dataset to be analyzed for their projects.
