@@ -49,6 +49,7 @@ Finally, a Notebook was created to load all of the previously created data into 
 - *BUG* Ratings query is supposed to say 26,024,289 rows. 
 
 - The create_database Notebook has that 26,024,289 rows were imported
+
 ![row_imported_from_nb](/Resources/26024289 rows imported proof.png)
 
 - pgAdmin 4 outputs the count as "24289" like it got cut off. 
