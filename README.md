@@ -47,7 +47,7 @@ Finally, a Notebook was created to load all of the previously created data into 
 
 <!-- ![row_imported_from_nb](/Resources/26024289_rows_imported_proof.png) -->
 
-- Ratings query at 26,048,578 rows. 
+- Ratings query at 26,024,289 rows. 
 ![ratings_query](/Resources/ratings_query.png)
 
  With this the hackathon has a clean and reliable dataset to be analyzed for their projects.
